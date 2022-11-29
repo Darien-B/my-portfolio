@@ -1,4 +1,4 @@
-# My Porftolio
+# My Portfolio
 
 This website is designed to showcase my portfolio in web & software development. 
 
