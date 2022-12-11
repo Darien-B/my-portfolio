@@ -552,7 +552,10 @@ main {
 
 .service-icon-box { margin-bottom: 10px; }
 
-.service-icon-box img { margin: auto; }
+.service-icon-box img { 
+  margin: auto; 
+  filter: invert(99%) sepia(2%) saturate(7318%) hue-rotate(147deg) brightness(89%) contrast(102%); 
+}
 
 .service-content-box { text-align: center; }
 
